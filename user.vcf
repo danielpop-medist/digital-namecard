@@ -7,7 +7,7 @@ ORG:MEDIST Imaging & POC;
 TITLE:Manager\nSales & Applications
 EMAIL;type=INTERNET;type=WORK;type=pref:daniel.pop@medist.ro
 TEL;type=WORK;type=VOICE:+40 733 105 232
-item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34\nfloor 1\,;;;050688;Romania
+item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34 \nfloor 1\,050688;;Romania
 item1.X-ABADR:sg
 item2.URL;type=pref:https://medist-imaging.ro/
 item2.X-ABLabel:_$!<HomePage>!$_
